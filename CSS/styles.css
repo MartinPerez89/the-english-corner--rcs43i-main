@@ -1,0 +1,90 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #000235;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{ 
+    font-family: 'Advent Pro', sans-serif;
+}
+
+/*color de background*/
+.bg-primary {
+  background-color: #000235 !important;
+}
+.bg-secondary {
+  background-color: #ec905c !important;
+}
+.bg-info {
+  background-color: #0b0b50  !important;
+}
+.bg-darkorange {
+  background-color: #ce9a5d !important;
+}
+.bg-dark {
+  background-color: #000 !important;
+}
+.bg-light {
+  background-color: #fff !important;
+}
+
+/*color de texto*/
+.text-primary {
+  color: #000235 !important;
+}
+.text-secondary {
+  color: #ec905c !important;
+}
+.text-info {
+  color: #347fc0 !important;
+}
+.text-darkorange {
+  color: #ce9a5d !important;
+}
+.text-dark {
+  color: #000 !important;
+}
+.text-light {
+  color: #fff !important;
+}
+
+/* CSS para las cards*/
+.card {
+ width: 12rem;
+ height: 16rem;
+ border: none;
+ position: relative;
+ margin: auto;
+ font-family: inherit;
+}
+
+.card span {
+ font-weight: 600;
+ color: white;
+ text-align: center;
+ display: block;
+ padding-top: 10px;
+ font-size: 1.3em;
+}
+
+.card .job {
+ font-weight: 400;
+ display: block;
+ text-align: center;
+ padding-top: 5px;
+ font-size: 1em;
+}
+
+.card .img {
+ width: 6rem;
+ height: 6rem;
+ background: #e8e8e8;
+ border-radius: 100%;
+ margin: auto;
+ margin-top: 3rem;
+}
+
