@@ -88,3 +88,11 @@ h6{
  margin-top: 3rem;
 }
 
+footer {
+  background-color: #000235;
+  color: #fff;
+}
+.navbar-dark {
+  color: #fff !important;
+}
+
